@@ -12,7 +12,7 @@ chat_info = []
 user_info = []
 bot_info = []
 
-bot = telebot.TeleBot('5164156205:AAFfNonv0jaoGoRx2wmpi_PlRlN0Mh1VdfI')
+bot = telebot.TeleBot('*****************')
 bot_info = [bot.get_me().id, bot.get_me().username]
 
 # handling Poll answers
