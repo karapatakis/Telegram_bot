@@ -5,7 +5,7 @@ def connect():
         db = mysql.connector.connect(
           host="192.168.254.215",
           user="bot",
-          password="Bot0803!999",
+          password="****",
           database="tyfla_bot"
         )
         cursor = db.cursor()
